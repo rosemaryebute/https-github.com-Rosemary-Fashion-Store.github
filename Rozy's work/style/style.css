@@ -1,0 +1,228 @@
+body{
+        padding: 0;
+        margin: 0;
+        color: black;
+
+}
+
+.nav_menu{
+        width: 100%;
+        height: 90px;
+       
+        
+}
+.nav_children{
+        padding-left: 20px;
+        padding-right: 20px;
+        background-color: white;
+        color: black;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+}
+
+#logo{
+font-size: 30px;
+font-weight: 700;
+font-family: Verdana;
+}
+
+.nav_list{
+        list-style: none;
+        display: flex;
+        gap: 10px;
+        font-size: 20px;
+        font-family: sans-serif;
+}
+.hero{
+        width: 100%;
+        position: relative;
+        /* display: flex; */
+}
+.hero_image{
+        width: 100%;
+        position: relative;
+}
+#hero_inner_image{
+        width: 100%;
+}
+.hero_text{
+        position: absolute;
+        bottom: 150px;
+        right: 100px;
+        /* width:50%; */
+}
+#hero_inner_h2{
+        font-size: 80px;
+        color: tomato;
+        text-transform: uppercase;
+}
+#hero_inner_p{
+        font-size: 20px;
+        color: white;
+        font-family: Courier;
+        text-transform: uppercase;
+        font-weight: 500;
+        margin-top:-60px ;
+        text-align: center;
+}
+.cloth{
+        width: 100%;
+}
+.cloth_section{
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+}
+.cloth_div{
+        width: 300px;
+}
+
+.party{
+        width: 250px;
+        height: 400px;
+        
+}
+.mode{
+        position: relative;
+        bottom: 510px;
+        left: 400px;
+        width: 250px;
+        height: 420px;
+        
+        
+}
+
+.text1{
+        position: relative;
+        bottom: 500px;
+        left: 420px;
+
+}
+
+.text2{
+        position: relative;
+       float: inline-end;
+       right: 1200px;
+       top: 0p;
+       bottom: 100px;
+}
+
+.cowl{
+        position: relative;
+        bottom: 980px;
+        left: 800px;
+        width: 250px;
+        height: 400px;
+}
+
+.text3{
+        position: relative;
+        bottom: 980px;
+        left: 830px;     
+}
+
+.text4{
+        position: relative;
+        bottom: 980px;
+        left: 830px;   
+}
+
+.fashion{
+        position: relative;
+        bottom: 1485px;
+        left: 1200px;
+        width: 250px;
+        height: 400px;
+}
+
+.text5{
+        position: relative;
+        bottom: 1480px;
+        left: 1230px;   
+}
+
+.text6{
+        position: relative;
+        float: inline-end;
+        right: 400px;
+        top: 0p;
+        bottom: 1080px;      
+}
+
+.Jumpsuit{
+        position: relative;
+        bottom: 1950px;
+        left: 1550px;
+        width: 300px;
+        height: 400px;
+}
+
+.text7{
+        position: relative;
+        bottom: 1950px;
+        left: 1560px;   
+}
+
+.text8{
+        position: relative;
+        bottom: 1950px;
+        left: 1580px;   
+
+}
+
+#lifting{
+        position: relative;
+        bottom: 1950px;
+        width: 1800px;
+}
+
+.text9{
+        position: relative;
+        bottom: 1950px;  
+}
+
+.text10{
+        position: relative;
+        bottom: 1950px;       
+}
+
+.Address{
+        position: relative;
+        bottom: 1900px;
+       
+        
+
+}
+
+.help{
+        position: relative;
+        bottom: 1900px;
+        
+       
+}
+
+.company{
+        position: relative;
+        bottom: 1900px;
+        
+}
+
+.container{
+        display: flex;
+        justify-content: space-between; 
+        font-size: 20px;
+        font-family: Poppins;           
+}
+
+@media (max-width:500px) {
+        #hero_inner_image
+        #lifting
+
+
+
+
+
+        
+}
+  
